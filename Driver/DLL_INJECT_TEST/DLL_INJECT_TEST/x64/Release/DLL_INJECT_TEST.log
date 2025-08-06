@@ -1,0 +1,28 @@
+﻿  Building 'DLL_INJECT_TEST' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\DLL_INJECT_TEST.inf
+  Stamping [Version] section with DriverVer=08/07/2025,1.4.42.93
+  dll_inject.c
+  HWBP.c
+  main.c
+  코드를 생성하고 있습니다...
+  DLL_INJECT_TEST.vcxproj -> C:\Users\Administrator\source\repos\DLL_INJECT_TEST\x64\Release\DLL_INJECT_TEST.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\source\repos\DLL_INJECT_TEST\x64\Release\DLL_INJECT_TEST.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Administrator\source\repos\DLL_INJECT_TEST\x64\Release\DLL_INJECT_TEST\dll_inject_test.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\source\repos\DLL_INJECT_TEST\x64\Release\DLL_INJECT_TEST\dll_inject_test.cat
+  
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
